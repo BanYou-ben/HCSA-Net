@@ -1,0 +1,6 @@
+# Replace the example root with your local dataset path.
+path: /absolute/path/to/printing_dataset
+train: images/train
+val: images/val
+test: images/test
+names: [lack, black_point, crack, Satellite_InkDrop]

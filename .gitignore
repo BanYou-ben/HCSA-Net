@@ -1,0 +1,29 @@
+# Model weights and exported models are deliberately excluded.
+*.pt
+*.pth
+*.ckpt
+*.onnx
+*.engine
+*.torchscript
+*.tflite
+*.h5
+*.hdf5
+*.bin
+*.safetensors
+**/weights/
+# Local datasets, credentials, environments and generated output
+/data/
+/datasets/
+/outputs/
+.env
+.env.*
+*.pem
+*.key
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.idea/
+.vscode/
+.DS_Store
