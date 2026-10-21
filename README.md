@@ -2,6 +2,10 @@
 
 Code resources for **HCSA-Net: Hierarchical Context Synergy and Spatially Adaptive Cross-Scale Fusion for Fine-Grained Printing Defect Detection**.
 
+## Code availability
+
+The complete source code will be made publicly available in this repository upon formal acceptance of the paper. During the review process, this repository provides model configurations and an evaluation helper.
+
 ## Contents
 
 - `configs/hcsa_net.yaml`: model architecture configuration. Historical implementation names such as `MSFE`, `Bi_FPN`, and `ASFF_Detect` are retained.
